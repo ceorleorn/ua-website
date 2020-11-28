@@ -1,2 +1,1 @@
-# ua-website
-Website of UA
+# Website
