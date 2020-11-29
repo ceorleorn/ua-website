@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
 
       <Head>
-        <title>Welcome to UA Framework</title>
+        <title>Welcome to IsClub</title>
         <div>
             <link rel="icon" href="https://avatars3.githubusercontent.com/u/73245034?s=90"/>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic" />
@@ -20,17 +20,14 @@ export default function Home() {
       <main>
         <h1 align="center" className="title">
           <br></br>
-          Welcome to <a href="https://github.com/isclub/ua">UA Framework</a>
+          Welcome to <a href="https://github.com/isclub/ua">IsClub</a>
         </h1>
 
         <p align="center" className="description">
-          The UA is a Comprehensive <a href="https://python.org">Python</a> Toolkit.
+        We are a free student organization working on <a href="https://github.com">GitHub</a>.
         </p><br/>
 
-        <div align="center">
-          <a class="button" href="/docs/">Getting Started</a>&nbsp;
-          <a class="button button-outline" href="https://github.com/isclub/ua">Github</a>
-        </div>
+        
 
         
       </main>
